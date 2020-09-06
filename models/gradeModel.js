@@ -1,5 +1,3 @@
-import { Mongoose } from "mongoose";
-
 export default (mongoose) => {
     const schema = mongoose.Schema({
         name: {
